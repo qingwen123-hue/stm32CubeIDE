@@ -1,0 +1,13 @@
+../Core/Src/rtc.c:35:6:MX_RTC_Init	8	static
+../Core/Src/rtc.c:63:6:HAL_RTC_MspInit	24	static
+../Core/Src/rtc.c:88:6:HAL_RTC_MspDeInit	16	static
+../Core/Src/rtc.c:116:6:rtc_write_bkr	16	static
+../Core/Src/rtc.c:128:10:rtc_read_bkr	24	static
+../Core/Src/rtc.c:175:16:rtc_is_leap_year	16	static
+../Core/Src/rtc.c:201:9:rtc_set_time	48	static
+../Core/Src/rtc.c:236:9:rtc_set_alarm	48	static
+../Core/Src/rtc.c:265:6:rtc_get_time	32	static
+../Core/Src/rtc.c:357:9:rtc_get_week	24	static
+../Core/Src/rtc.c:385:13:rtc_date2sec	40	static
+../Core/Src/rtc.c:405:6:HAL_RTCEx_RTCEventCallback	48	static
+../Core/Src/rtc.c:413:6:HAL_RTC_AlarmAEventCallback	24	static
