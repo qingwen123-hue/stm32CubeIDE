@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:92:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:143:6:AppTask_Checkln	32	static
+../Core/Src/freertos.c:165:6:FreeRtosHardwareTimeISR	24	static,ignoring_inline_asm
