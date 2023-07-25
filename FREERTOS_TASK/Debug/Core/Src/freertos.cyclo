@@ -1,0 +1,3 @@
+freertos.c:86:6:MX_FREERTOS_Init	1
+freertos.c:131:6:AppTask_LED1	1
+freertos.c:153:6:AppTask_LED2	1

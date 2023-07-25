@@ -1,0 +1,13 @@
+rtc.c:35:6:MX_RTC_Init	2
+rtc.c:63:6:HAL_RTC_MspInit	2
+rtc.c:88:6:HAL_RTC_MspDeInit	2
+rtc.c:116:6:rtc_write_bkr	1
+rtc.c:128:10:rtc_read_bkr	1
+rtc.c:175:16:rtc_is_leap_year	4
+rtc.c:201:9:rtc_set_time	2
+rtc.c:236:9:rtc_set_alarm	2
+rtc.c:265:6:rtc_get_time	10
+rtc.c:357:9:rtc_get_week	2
+rtc.c:385:13:rtc_date2sec	2
+rtc.c:405:6:HAL_RTCEx_RTCEventCallback	1
+rtc.c:413:6:HAL_RTC_AlarmAEventCallback	1
