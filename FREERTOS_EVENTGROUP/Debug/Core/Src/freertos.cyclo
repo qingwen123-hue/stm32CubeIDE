@@ -1,0 +1,4 @@
+freertos.c:105:6:MX_FREERTOS_Init	1
+freertos.c:162:6:AppTask_LCD	2
+freertos.c:189:6:AppTask_LED	2
+freertos.c:216:6:AppTask_ScanKeys	4
