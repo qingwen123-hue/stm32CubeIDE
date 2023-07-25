@@ -1,0 +1,5 @@
+spi.c:30:6:MX_SPI2_Init	2
+spi.c:62:6:HAL_SPI_MspInit	2
+spi.c:96:6:HAL_SPI_MspDeInit	2
+spi.c:126:6:SPI2_SetSpeed	1
+spi.c:139:4:SPI2_ReadWriteByte	1
