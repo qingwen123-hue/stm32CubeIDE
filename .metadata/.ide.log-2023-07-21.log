@@ -1,0 +1,1135 @@
+2023-07-22 11:09:02,784 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 11:09:02,847 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 11:09:03,133 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 11:09:03,134 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 11:09:03,258 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-07-22 11:09:03,259 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-07-22 11:09:03,262 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-07-22 11:09:03,269 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 11:09:03,367 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 558871696 Bytes (1069547520)
+2023-07-22 11:09:03,369 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 11:09:03,369 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 11:09:03,370 [INFO] OpenFileManager:308 - Change cursor
+2023-07-22 11:09:03,428 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-07-22 11:09:03,452 [INFO] Mcu:1937 - Initializing MCU STM32F103Z(C-D-E)Tx STM32F103ZETx STM32F103ZET6
+2023-07-22 11:09:06,074 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-22 11:09:06,857 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 11:09:06,857 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 11:09:06,857 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 11:09:06,857 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 11:09:06,857 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-22 11:09:06,887 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,887 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,888 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,889 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,890 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,891 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:09:06,929 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-22 11:09:07,798 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-22 11:09:07,839 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M3NS]
+2023-07-22 11:09:07,851 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (ADCFreqValue) has invalid value (36000000)
+2023-07-22 11:09:07,852 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2023-07-22 11:09:07,852 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCOFreq_Value) has invalid value (72000000)
+2023-07-22 11:09:07,853 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2023-07-22 11:09:08,294 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 676938024 Bytes (1069547520)
+2023-07-22 11:09:08,324 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-07-22 11:09:08,325 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-07-22 11:09:08,325 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-22 11:09:08,325 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-22 11:09:08,325 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-22 11:09:08,325 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-22 11:09:08,325 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-22 11:09:08,326 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-22 11:09:08,327 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-22 11:09:08,328 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-22 11:09:08,329 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-22 11:09:08,330 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-22 11:09:08,331 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-22 11:09:08,331 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-22 11:09:08,331 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-07-22 11:09:08,685 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 11:09:08,689 [INFO] PinOutPanel:1499 - setPackage(STM32F103ZETx,LQFP144)
+2023-07-22 11:09:09,330 [INFO] UtilMem:75 - Before build in PCC Used Memory: 646290648 Bytes (1069547520)
+2023-07-22 11:09:09,875 [INFO] UtilMem:75 - After build in PCC Used Memory: 690330840 Bytes (1069547520)
+2023-07-22 11:09:09,957 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-22 11:09:10,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,003 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,003 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,003 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,005 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,005 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,005 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,007 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,007 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,007 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,008 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,008 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,008 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,009 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,009 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,009 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,010 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,010 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,010 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,011 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,011 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,011 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,012 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,012 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,013 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,013 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,013 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,014 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,014 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:09:10,039 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2023-07-22 11:09:10,173 [INFO] CADModel:165 - CPN selected for project levelSTM32F103ZET6
+2023-07-22 11:09:10,173 [INFO] CADModel:114 - Register for checkConnection events
+2023-07-22 11:09:10,178 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M3NS]
+2023-07-22 11:09:10,237 [INFO] OpenFileManager:328 - Restore cursor
+2023-07-22 11:09:29,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,670 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,670 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,670 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,670 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,671 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,679 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:29,694 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 11:09:36,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,321 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:09:36,329 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 11:11:24,668 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 11:11:53,255 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:11:53,255 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:11:53,255 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:53,255 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:11:57,003 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:57,003 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:57,003 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:11:57,003 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:57,003 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:57,003 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:11:59,582 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:11:59,583 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 11:11:59,583 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:12:02,236 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 64
+2023-07-22 11:12:02,236 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 16384
+2023-07-22 11:12:22,234 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 11:12:22,234 [WARN] TasksAndQueuesTab:763 - 256 128
+2023-07-22 11:12:22,234 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 11:12:32,498 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 591393560 Bytes (1069547520)
+2023-07-22 11:12:33,560 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 611509712 Bytes (1069547520)
+2023-07-22 11:12:35,636 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 662793456 Bytes (1069547520)
+2023-07-22 11:12:36,427 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 11:12:37,746 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 11:12:37,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 11:12:37,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 11:12:37,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 11:12:37,747 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 11:12:37,749 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 11:12:38,231 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\license.tmp_save
+2023-07-22 11:12:38,428 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\license.tmp
+2023-07-22 11:12:38,550 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\gpio.c_save
+2023-07-22 11:12:38,692 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\gpio.c
+2023-07-22 11:12:38,701 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\gpio.h_save
+2023-07-22 11:12:38,836 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\gpio.h
+2023-07-22 11:12:40,093 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 11:12:40,101 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 11:12:40,207 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_inc.tmp
+2023-07-22 11:12:40,211 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 11:12:40,310 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 11:12:40,315 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 11:12:40,413 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 11:12:40,423 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 11:12:40,523 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 11:12:40,528 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 11:12:40,844 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_vars.tmp
+2023-07-22 11:12:40,850 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 11:12:40,951 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 11:12:40,956 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 11:12:41,061 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 11:12:41,067 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 11:12:41,176 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 11:12:41,186 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 11:12:41,312 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_threads.tmp
+2023-07-22 11:12:41,332 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 11:12:41,342 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 11:12:41,454 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_inc.tmp
+2023-07-22 11:12:41,463 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 11:12:41,593 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 11:12:41,601 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 11:12:41,714 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 11:12:41,723 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 11:12:41,829 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 11:12:41,837 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 11:12:41,941 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_vars.tmp
+2023-07-22 11:12:41,950 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 11:12:42,046 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 11:12:42,054 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 11:12:42,156 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 11:12:42,164 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 11:12:42,261 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 11:12:42,269 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 11:12:42,365 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\rtos_threads.tmp
+2023-07-22 11:12:42,384 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 11:12:42,508 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\FreeRTOSConfig.h
+2023-07-22 11:12:42,516 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\freertos.c_save
+2023-07-22 11:12:42,641 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\freertos.c
+2023-07-22 11:12:42,658 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\adc.c_save
+2023-07-22 11:12:42,842 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\adc.c
+2023-07-22 11:12:42,851 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\adc.h_save
+2023-07-22 11:12:42,955 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\adc.h
+2023-07-22 11:12:42,969 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\fsmc.c_save
+2023-07-22 11:12:43,088 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\fsmc.c
+2023-07-22 11:12:43,096 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\fsmc.h_save
+2023-07-22 11:12:43,199 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\fsmc.h
+2023-07-22 11:12:43,214 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\rtc.c_save
+2023-07-22 11:12:43,593 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\rtc.c
+2023-07-22 11:12:43,600 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\rtc.h_save
+2023-07-22 11:12:43,733 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\rtc.h
+2023-07-22 11:12:43,748 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\spi.c_save
+2023-07-22 11:12:43,964 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\spi.c
+2023-07-22 11:12:43,974 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\spi.h_save
+2023-07-22 11:12:44,104 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\spi.h
+2023-07-22 11:12:44,127 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\tim.c_save
+2023-07-22 11:12:44,335 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\tim.c
+2023-07-22 11:12:44,347 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\tim.h_save
+2023-07-22 11:12:44,477 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\tim.h
+2023-07-22 11:12:44,494 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\usart.c_save
+2023-07-22 11:12:44,685 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\usart.c
+2023-07-22 11:12:44,694 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\usart.h_save
+2023-07-22 11:12:44,859 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\usart.h
+2023-07-22 11:12:44,881 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_it.c_save
+2023-07-22 11:12:45,360 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_it.c
+2023-07-22 11:12:45,375 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 11:12:45,630 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\stm32f1xx_it.h
+2023-07-22 11:12:45,658 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 11:12:45,865 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 11:12:45,872 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\system.tmp_save
+2023-07-22 11:12:45,982 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\MXTmpFiles\system.tmp
+2023-07-22 11:12:45,989 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 11:12:46,114 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 11:12:46,130 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 11:12:46,265 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 11:12:46,322 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\main.h_save
+2023-07-22 11:12:46,480 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Inc\main.h
+2023-07-22 11:12:46,492 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\main.c_save
+2023-07-22 11:12:46,690 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYADC\Core\Src\main.c
+2023-07-22 11:12:48,544 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 521mS.
+2023-07-22 11:12:48,556 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 11:12:49,524 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 11:12:49,553 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-22 11:12:49,626 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-22 11:12:53,931 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5374mS.
+2023-07-22 11:12:53,936 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 11:12:53,950 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 11:41:43,619 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 11:41:43,620 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 11:41:43,924 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 11:41:43,924 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 11:41:43,961 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-07-22 11:41:43,961 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-07-22 11:41:43,962 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-07-22 11:41:43,966 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 11:41:43,978 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 719136168 Bytes (1072693248)
+2023-07-22 11:41:43,980 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 11:41:43,980 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 11:41:43,980 [INFO] OpenFileManager:308 - Change cursor
+2023-07-22 11:41:44,013 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-07-22 11:41:44,020 [INFO] Mcu:1937 - Initializing MCU STM32F103Z(C-D-E)Tx STM32F103ZETx STM32F103ZET6
+2023-07-22 11:41:46,057 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-22 11:41:46,776 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 11:41:46,776 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 11:41:46,776 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 11:41:46,779 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 11:41:46,780 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-22 11:41:46,815 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,816 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,817 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,817 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,817 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,817 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,818 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,819 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,820 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,820 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 11:41:46,893 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-22 11:41:47,786 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-22 11:41:47,815 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M3NS]
+2023-07-22 11:41:47,831 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (ADCFreqValue) has invalid value (36000000)
+2023-07-22 11:41:47,832 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2023-07-22 11:41:47,832 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCOFreq_Value) has invalid value (72000000)
+2023-07-22 11:41:47,832 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2023-07-22 11:41:48,293 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 868275352 Bytes (1072693248)
+2023-07-22 11:41:48,318 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-07-22 11:41:48,318 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-22 11:41:48,318 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-22 11:41:48,319 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-22 11:41:48,320 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-22 11:41:48,321 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-22 11:41:48,322 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-07-22 11:41:48,818 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 11:41:48,819 [INFO] PinOutPanel:1499 - setPackage(STM32F103ZETx,LQFP144)
+2023-07-22 11:41:49,367 [INFO] UtilMem:75 - Before build in PCC Used Memory: 809563592 Bytes (1072693248)
+2023-07-22 11:41:49,748 [INFO] UtilMem:75 - After build in PCC Used Memory: 852555208 Bytes (1072693248)
+2023-07-22 11:41:49,830 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-22 11:41:49,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,884 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,884 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,884 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,884 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,885 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,885 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,885 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,885 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,885 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,886 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,886 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,886 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,886 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,887 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,887 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,888 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,888 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,890 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,890 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,890 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,891 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,891 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,892 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,892 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,893 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,894 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,895 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,895 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,896 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,897 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,897 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,898 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 11:41:49,923 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2023-07-22 11:41:50,055 [INFO] CADModel:165 - CPN selected for project levelSTM32F103ZET6
+2023-07-22 11:41:50,055 [INFO] CADModel:114 - Register for checkConnection events
+2023-07-22 11:41:50,061 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M3NS]
+2023-07-22 11:41:50,100 [INFO] OpenFileManager:328 - Restore cursor
+2023-07-22 11:42:20,326 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 13:51:43,641 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 605070400 Bytes (1072693248)
+2023-07-22 13:51:44,812 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 628295680 Bytes (1072693248)
+2023-07-22 13:51:48,229 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 684712288 Bytes (1072693248)
+2023-07-22 13:51:48,950 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 13:51:50,227 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 13:51:50,228 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 13:51:50,229 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 13:51:50,229 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 13:51:50,229 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 13:51:50,231 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 13:51:50,738 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp_save
+2023-07-22 13:51:50,890 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp
+2023-07-22 13:51:50,988 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c_save
+2023-07-22 13:51:51,145 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c
+2023-07-22 13:51:51,154 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h_save
+2023-07-22 13:51:51,289 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h
+2023-07-22 13:51:52,376 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 13:51:52,384 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 13:51:52,486 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 13:51:52,491 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 13:51:52,595 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 13:51:52,600 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 13:51:52,700 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 13:51:52,705 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 13:51:52,808 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 13:51:52,814 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 13:51:52,919 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 13:51:52,924 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 13:51:53,026 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 13:51:53,031 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 13:51:53,135 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 13:51:53,140 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 13:51:53,238 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 13:51:53,243 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 13:51:53,340 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 13:51:53,357 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 13:51:53,366 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 13:51:53,468 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 13:51:53,475 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 13:51:53,575 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 13:51:53,582 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 13:51:53,678 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 13:51:53,686 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 13:51:53,784 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 13:51:53,792 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 13:51:53,895 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 13:51:53,902 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 13:51:54,001 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 13:51:54,008 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 13:51:54,113 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 13:51:54,121 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 13:51:54,223 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 13:51:54,230 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 13:51:54,333 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 13:51:54,341 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 13:51:54,461 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h
+2023-07-22 13:51:54,469 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c_save
+2023-07-22 13:51:55,005 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c
+2023-07-22 13:51:55,030 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c_save
+2023-07-22 13:51:55,277 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c
+2023-07-22 13:51:55,286 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h_save
+2023-07-22 13:51:55,420 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h
+2023-07-22 13:51:55,436 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c_save
+2023-07-22 13:51:55,602 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c
+2023-07-22 13:51:55,611 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h_save
+2023-07-22 13:51:55,746 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h
+2023-07-22 13:51:55,761 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c_save
+2023-07-22 13:51:55,961 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c
+2023-07-22 13:51:55,970 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h_save
+2023-07-22 13:51:56,102 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h
+2023-07-22 13:51:56,119 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c_save
+2023-07-22 13:51:56,319 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c
+2023-07-22 13:51:56,329 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h_save
+2023-07-22 13:51:56,463 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h
+2023-07-22 13:51:56,480 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c_save
+2023-07-22 13:51:56,656 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c
+2023-07-22 13:51:56,663 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h_save
+2023-07-22 13:51:56,879 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h
+2023-07-22 13:51:56,896 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c_save
+2023-07-22 13:51:57,071 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c
+2023-07-22 13:51:57,083 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h_save
+2023-07-22 13:51:57,244 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h
+2023-07-22 13:51:57,284 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c_save
+2023-07-22 13:51:57,718 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c
+2023-07-22 13:51:57,727 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 13:51:57,852 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h
+2023-07-22 13:51:57,872 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 13:51:58,029 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 13:51:58,036 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp_save
+2023-07-22 13:51:58,143 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp
+2023-07-22 13:51:58,152 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 13:51:58,270 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 13:51:58,285 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 13:51:58,396 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 13:51:58,439 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h_save
+2023-07-22 13:51:58,567 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h
+2023-07-22 13:51:58,576 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c_save
+2023-07-22 13:51:58,723 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c
+2023-07-22 13:52:00,228 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 481mS.
+2023-07-22 13:52:00,236 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 13:52:01,697 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 13:52:01,728 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-22 13:52:01,803 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-22 13:52:06,226 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5990mS.
+2023-07-22 13:52:06,229 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 13:52:06,239 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 13:52:51,284 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 13:52:51,284 [WARN] TasksAndQueuesTab:763 - 256 128
+2023-07-22 13:52:51,284 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 13:52:52,946 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 64
+2023-07-22 13:52:52,946 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 16384
+2023-07-22 13:53:53,833 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 13:53:53,833 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 13:53:53,833 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 13:54:51,671 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 864315520 Bytes (1073741824)
+2023-07-22 13:54:52,698 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 640627224 Bytes (1073741824)
+2023-07-22 13:54:56,224 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 673917808 Bytes (1073741824)
+2023-07-22 13:54:56,957 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 13:54:58,253 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 13:54:58,254 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 13:54:58,254 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 13:54:58,254 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 13:54:58,256 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 13:54:58,737 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp_save
+2023-07-22 13:54:58,846 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp
+2023-07-22 13:54:58,927 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c_save
+2023-07-22 13:54:59,058 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c
+2023-07-22 13:54:59,066 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h_save
+2023-07-22 13:54:59,190 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h
+2023-07-22 13:55:00,372 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 13:55:00,383 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 13:55:00,509 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 13:55:00,514 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 13:55:00,630 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 13:55:00,635 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 13:55:00,737 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 13:55:00,742 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 13:55:00,841 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 13:55:00,846 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 13:55:00,952 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 13:55:00,956 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 13:55:01,058 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 13:55:01,064 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 13:55:01,167 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 13:55:01,172 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 13:55:01,271 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 13:55:01,276 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 13:55:01,379 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 13:55:01,395 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 13:55:01,404 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 13:55:01,505 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 13:55:01,512 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 13:55:01,609 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 13:55:01,617 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 13:55:01,833 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 13:55:01,843 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 13:55:01,953 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 13:55:01,961 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 13:55:02,071 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 13:55:02,078 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 13:55:02,181 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 13:55:02,189 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 13:55:02,297 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 13:55:02,305 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 13:55:02,405 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 13:55:02,414 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 13:55:02,516 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 13:55:02,524 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 13:55:02,646 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h
+2023-07-22 13:55:02,654 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c_save
+2023-07-22 13:55:02,794 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c
+2023-07-22 13:55:02,811 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c_save
+2023-07-22 13:55:02,969 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c
+2023-07-22 13:55:02,977 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h_save
+2023-07-22 13:55:03,093 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h
+2023-07-22 13:55:03,108 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c_save
+2023-07-22 13:55:03,240 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c
+2023-07-22 13:55:03,248 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h_save
+2023-07-22 13:55:03,363 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h
+2023-07-22 13:55:03,378 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c_save
+2023-07-22 13:55:03,562 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c
+2023-07-22 13:55:03,569 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h_save
+2023-07-22 13:55:03,681 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h
+2023-07-22 13:55:03,695 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c_save
+2023-07-22 13:55:03,849 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c
+2023-07-22 13:55:03,857 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h_save
+2023-07-22 13:55:03,969 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h
+2023-07-22 13:55:03,985 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c_save
+2023-07-22 13:55:04,136 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c
+2023-07-22 13:55:04,144 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h_save
+2023-07-22 13:55:04,258 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h
+2023-07-22 13:55:04,276 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c_save
+2023-07-22 13:55:04,460 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c
+2023-07-22 13:55:04,469 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h_save
+2023-07-22 13:55:04,730 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h
+2023-07-22 13:55:04,753 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c_save
+2023-07-22 13:55:04,911 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c
+2023-07-22 13:55:04,923 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 13:55:05,084 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h
+2023-07-22 13:55:05,101 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 13:55:05,275 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 13:55:05,283 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp_save
+2023-07-22 13:55:05,417 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp
+2023-07-22 13:55:05,424 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 13:55:05,568 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 13:55:05,589 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 13:55:05,725 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 13:55:05,788 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h_save
+2023-07-22 13:55:05,976 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h
+2023-07-22 13:55:05,989 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c_save
+2023-07-22 13:55:06,250 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c
+2023-07-22 13:55:08,326 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 672mS.
+2023-07-22 13:55:08,336 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 13:55:08,827 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 13:55:13,853 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5517mS.
+2023-07-22 13:55:13,857 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 4mS.
+2023-07-22 13:55:13,875 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 16:04:53,310 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 16:05:03,321 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 16:05:11,603 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 613034456 Bytes (1073741824)
+2023-07-22 16:05:12,831 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 634423568 Bytes (1073741824)
+2023-07-22 16:05:15,211 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 678568408 Bytes (1073741824)
+2023-07-22 16:05:15,970 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 16:05:18,437 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 16:05:18,437 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 16:05:18,437 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 16:05:18,437 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 16:05:18,437 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 16:05:18,438 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 16:05:18,438 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 16:05:18,438 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 16:05:18,439 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 16:05:18,439 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 16:05:18,439 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 16:05:18,441 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 16:05:19,028 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp_save
+2023-07-22 16:05:19,220 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp
+2023-07-22 16:05:19,322 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c_save
+2023-07-22 16:05:19,476 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c
+2023-07-22 16:05:19,485 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h_save
+2023-07-22 16:05:19,630 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h
+2023-07-22 16:05:20,989 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:05:20,999 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:05:21,120 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:05:21,126 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:05:21,332 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:05:21,338 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:05:21,467 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:05:21,474 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:05:21,809 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:05:21,815 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:05:21,932 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:05:21,937 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:05:22,052 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:05:22,058 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:05:22,184 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:05:22,191 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:05:22,312 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:05:22,317 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:05:22,444 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:05:22,472 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:05:22,487 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:05:22,634 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:05:22,642 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:05:22,751 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:05:22,759 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:05:22,859 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:05:22,867 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:05:22,966 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:05:22,974 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:05:23,078 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:05:23,085 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:05:23,222 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:05:23,230 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:05:23,337 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:05:23,344 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:05:23,447 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:05:23,467 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:05:23,564 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:05:23,573 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 16:05:23,693 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h
+2023-07-22 16:05:23,701 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c_save
+2023-07-22 16:05:23,826 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c
+2023-07-22 16:05:23,846 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c_save
+2023-07-22 16:05:24,016 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c
+2023-07-22 16:05:24,025 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h_save
+2023-07-22 16:05:24,128 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h
+2023-07-22 16:05:24,143 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c_save
+2023-07-22 16:05:24,263 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c
+2023-07-22 16:05:24,271 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h_save
+2023-07-22 16:05:24,376 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h
+2023-07-22 16:05:24,390 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c_save
+2023-07-22 16:05:24,541 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c
+2023-07-22 16:05:24,549 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h_save
+2023-07-22 16:05:24,657 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h
+2023-07-22 16:05:24,672 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c_save
+2023-07-22 16:05:24,829 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c
+2023-07-22 16:05:24,836 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h_save
+2023-07-22 16:05:24,943 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h
+2023-07-22 16:05:24,958 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c_save
+2023-07-22 16:05:25,103 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c
+2023-07-22 16:05:25,112 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h_save
+2023-07-22 16:05:25,215 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h
+2023-07-22 16:05:25,231 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c_save
+2023-07-22 16:05:25,444 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c
+2023-07-22 16:05:25,452 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h_save
+2023-07-22 16:05:25,586 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h
+2023-07-22 16:05:25,608 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c_save
+2023-07-22 16:05:25,899 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c
+2023-07-22 16:05:25,909 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 16:05:26,045 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h
+2023-07-22 16:05:26,065 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 16:05:26,242 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 16:05:26,248 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp_save
+2023-07-22 16:05:26,374 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp
+2023-07-22 16:05:26,381 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 16:05:26,526 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 16:05:26,543 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 16:05:26,687 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 16:05:26,739 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h_save
+2023-07-22 16:05:26,902 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h
+2023-07-22 16:05:26,914 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c_save
+2023-07-22 16:05:27,147 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c
+2023-07-22 16:05:28,652 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 525mS.
+2023-07-22 16:05:28,659 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 16:05:29,814 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 16:05:37,072 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 8412mS.
+2023-07-22 16:05:37,077 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 5mS.
+2023-07-22 16:05:37,109 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 16:10:28,454 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 16:10:31,088 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 16:10:33,054 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 16:10:44,703 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 762253984 Bytes (1073741824)
+2023-07-22 16:10:55,082 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 787858072 Bytes (1073741824)
+2023-07-22 16:10:56,444 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 655934440 Bytes (1073741824)
+2023-07-22 16:10:57,039 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 16:10:58,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 16:10:58,280 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 16:10:58,280 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 16:10:58,280 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 16:10:58,282 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 16:10:58,881 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp_save
+2023-07-22 16:10:59,072 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\license.tmp
+2023-07-22 16:10:59,271 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c_save
+2023-07-22 16:10:59,461 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\gpio.c
+2023-07-22 16:10:59,472 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h_save
+2023-07-22 16:10:59,608 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\gpio.h
+2023-07-22 16:11:00,962 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:11:00,970 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:11:01,069 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:11:01,076 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:11:01,172 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:11:01,177 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:11:01,273 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:11:01,278 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:11:01,381 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:11:01,387 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:11:01,493 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:11:01,497 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:11:01,595 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:11:01,599 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:11:01,743 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:11:01,748 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:11:01,845 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:11:01,850 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:11:01,950 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:11:01,967 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:11:01,977 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:11:02,076 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:11:02,084 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:11:02,183 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:11:02,190 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:11:02,292 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:11:02,300 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:11:02,404 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:11:02,411 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:11:02,517 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:11:02,526 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:11:02,629 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:11:02,636 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:11:02,737 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:11:02,745 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:11:02,841 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:11:02,849 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:11:02,945 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:11:02,953 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 16:11:03,066 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\FreeRTOSConfig.h
+2023-07-22 16:11:03,074 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c_save
+2023-07-22 16:11:03,203 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\freertos.c
+2023-07-22 16:11:03,218 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c_save
+2023-07-22 16:11:03,374 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\adc.c
+2023-07-22 16:11:03,383 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h_save
+2023-07-22 16:11:03,489 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\adc.h
+2023-07-22 16:11:03,502 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c_save
+2023-07-22 16:11:03,628 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\fsmc.c
+2023-07-22 16:11:03,635 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h_save
+2023-07-22 16:11:03,738 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\fsmc.h
+2023-07-22 16:11:03,752 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c_save
+2023-07-22 16:11:03,896 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\rtc.c
+2023-07-22 16:11:03,904 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h_save
+2023-07-22 16:11:04,055 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\rtc.h
+2023-07-22 16:11:04,076 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c_save
+2023-07-22 16:11:04,261 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\spi.c
+2023-07-22 16:11:04,269 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h_save
+2023-07-22 16:11:04,397 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\spi.h
+2023-07-22 16:11:04,415 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c_save
+2023-07-22 16:11:04,601 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\tim.c
+2023-07-22 16:11:04,613 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h_save
+2023-07-22 16:11:04,742 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\tim.h
+2023-07-22 16:11:04,758 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c_save
+2023-07-22 16:11:04,947 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\usart.c
+2023-07-22 16:11:04,955 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h_save
+2023-07-22 16:11:05,083 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\usart.h
+2023-07-22 16:11:05,103 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c_save
+2023-07-22 16:11:05,239 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_it.c
+2023-07-22 16:11:05,247 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 16:11:05,374 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_it.h
+2023-07-22 16:11:05,392 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 16:11:05,569 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 16:11:05,575 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp_save
+2023-07-22 16:11:05,705 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\MXTmpFiles\system.tmp
+2023-07-22 16:11:05,712 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 16:11:05,858 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 16:11:05,873 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 16:11:06,087 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 16:11:06,159 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h_save
+2023-07-22 16:11:06,310 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Inc\main.h
+2023-07-22 16:11:06,319 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c_save
+2023-07-22 16:11:06,501 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_NOTIFYCOUNTING\Core\Src\main.c
+2023-07-22 16:11:07,776 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 357mS.
+2023-07-22 16:11:07,784 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 16:11:08,939 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 16:11:16,030 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 8246mS.
+2023-07-22 16:11:16,115 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 83mS.
+2023-07-22 16:11:16,150 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 16:45:21,481 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 16:45:21,481 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 16:45:21,763 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 16:45:21,764 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 16:45:21,822 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-07-22 16:45:21,823 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-07-22 16:45:21,823 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-07-22 16:45:21,828 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 16:45:21,843 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 687513544 Bytes (1073741824)
+2023-07-22 16:45:21,844 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 16:45:21,844 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 16:45:21,844 [INFO] OpenFileManager:308 - Change cursor
+2023-07-22 16:45:21,881 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-07-22 16:45:21,892 [INFO] Mcu:1937 - Initializing MCU STM32F103Z(C-D-E)Tx STM32F103ZETx STM32F103ZET6
+2023-07-22 16:45:23,956 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-22 16:45:24,691 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 16:45:24,691 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 16:45:24,691 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 16:45:24,692 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 16:45:24,692 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-22 16:45:24,720 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,720 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,720 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,720 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,720 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,721 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,722 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,723 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,725 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,725 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,725 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,726 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 16:45:24,829 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-22 16:45:25,357 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-22 16:45:25,376 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M3NS]
+2023-07-22 16:45:25,390 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (ADCFreqValue) has invalid value (36000000)
+2023-07-22 16:45:25,390 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2023-07-22 16:45:25,390 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCOFreq_Value) has invalid value (72000000)
+2023-07-22 16:45:25,391 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2023-07-22 16:45:25,845 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 701497016 Bytes (1073741824)
+2023-07-22 16:45:25,858 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-07-22 16:45:25,858 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-07-22 16:45:25,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-22 16:45:25,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-22 16:45:25,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-22 16:45:25,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-22 16:45:25,861 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-22 16:45:25,862 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-22 16:45:25,863 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-07-22 16:45:26,417 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 16:45:26,420 [INFO] PinOutPanel:1499 - setPackage(STM32F103ZETx,LQFP144)
+2023-07-22 16:45:27,041 [INFO] UtilMem:75 - Before build in PCC Used Memory: 847047616 Bytes (1073741824)
+2023-07-22 16:45:27,529 [INFO] UtilMem:75 - After build in PCC Used Memory: 672842000 Bytes (1073741824)
+2023-07-22 16:45:27,632 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-22 16:45:27,700 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,700 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,701 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,701 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,701 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,701 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,707 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,707 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,708 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,708 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,709 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,710 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,711 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,712 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,713 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,716 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,724 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,725 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,726 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,727 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,728 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,732 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 16:45:27,760 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2023-07-22 16:45:27,896 [INFO] CADModel:165 - CPN selected for project levelSTM32F103ZET6
+2023-07-22 16:45:27,896 [INFO] CADModel:114 - Register for checkConnection events
+2023-07-22 16:45:27,902 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M3NS]
+2023-07-22 16:45:27,956 [INFO] OpenFileManager:328 - Restore cursor
+2023-07-22 16:45:47,004 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:45:54,270 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 16:45:54,271 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 16:45:54,271 [WARN] TasksAndQueuesTab:775 - max value is: 768.0
+2023-07-22 16:45:55,743 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 64
+2023-07-22 16:45:55,743 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 16384
+2023-07-22 16:46:15,084 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-07-22 16:46:15,084 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-07-22 16:46:15,084 [WARN] TasksAndQueuesTab:775 - max value is: 768.0

@@ -1,0 +1,22 @@
+09:22:29 **** Build of configuration Debug for project RTC ****
+make -j8 all 
+arm-none-eabi-gcc -o "RTC.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\ST\workspace\RTC\STM32F103ZETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="RTC.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: RTC.elf
+ 
+arm-none-eabi-size   RTC.elf 
+arm-none-eabi-objdump -h -S  RTC.elf  > "RTC.list"
+arm-none-eabi-objcopy  -O ihex  RTC.elf  "RTC.hex"
+   text	   data	    bss	    dec	    hex	filename
+  57836	    496	   1880	  60212	   eb34	RTC.elf
+arm-none-eabi-objcopy  -O binary  RTC.elf  "RTC.bin"
+Finished building: default.size.stdout
+ 
+Finished building: RTC.hex
+Finished building: RTC.bin
+ 
+ 
+Finished building: RTC.list
+ 
+
+09:22:32 Build Finished. 0 errors, 0 warnings. (took 3s.381ms)
+

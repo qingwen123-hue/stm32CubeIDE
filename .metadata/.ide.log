@@ -1,0 +1,266 @@
+2023-07-22 16:48:49,552 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: class sun.awt.windows.WEmbeddedFrame cannot be cast to class javax.swing.JFrame (sun.awt.windows.WEmbeddedFrame and javax.swing.JFrame are in module java.desktop of loader 'bootstrap')
+2023-07-22 16:48:49,580 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.clock.ClockConfigurationView.activatePlugin(ClockConfigurationView.java:425)
+2023-07-22 16:48:49,583 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.maingui.MainPanel$1.stateChanged(MainPanel.java:358)
+2023-07-22 16:48:49,586 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.fireStateChanged(JTabbedPane.java:418)
+2023-07-22 16:48:49,589 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane$ModelListener.stateChanged(JTabbedPane.java:269)
+2023-07-22 16:48:49,593 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.fireStateChanged(DefaultSingleSelectionModel.java:143)
+2023-07-22 16:48:49,597 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.setSelectedIndex(DefaultSingleSelectionModel.java:74)
+2023-07-22 16:48:49,600 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndexImpl(JTabbedPane.java:622)
+2023-07-22 16:48:49,603 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndex(JTabbedPane.java:597)
+2023-07-22 16:48:49,606 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicTabbedPaneUI$Handler.mousePressed(BasicTabbedPaneUI.java:4090)
+2023-07-22 16:48:49,609 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6632)
+2023-07-22 16:48:49,612 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+2023-07-22 16:48:49,615 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+2023-07-22 16:48:49,619 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+2023-07-22 16:48:49,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+2023-07-22 16:48:49,632 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+2023-07-22 16:48:49,637 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2023-07-22 16:48:49,641 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+2023-07-22 16:48:49,644 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4544)
+2023-07-22 16:48:49,647 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+2023-07-22 16:48:49,649 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+2023-07-22 16:48:49,652 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2023-07-22 16:48:49,654 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+2023-07-22 16:48:49,657 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-07-22 16:48:49,659 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-07-22 16:48:49,661 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-07-22 16:48:49,665 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-07-22 16:48:49,669 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+2023-07-22 16:48:49,672 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2023-07-22 16:48:49,675 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+2023-07-22 16:48:49,677 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-07-22 16:48:49,681 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-07-22 16:48:49,684 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+2023-07-22 16:48:49,687 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-07-22 16:48:49,690 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-07-22 16:48:49,693 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-07-22 16:48:49,696 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-07-22 16:48:49,699 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-07-22 16:48:49,702 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-07-22 16:48:55,290 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:48:55,571 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:48:56,968 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:48:57,324 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:49:02,579 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-07-22 16:49:03,880 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 688697056 Bytes (1073741824)
+2023-07-22 16:49:04,661 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 710343512 Bytes (1073741824)
+2023-07-22 16:49:06,357 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 777828064 Bytes (1073741824)
+2023-07-22 16:49:07,075 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 16:49:08,432 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 16:49:08,432 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 16:49:08,433 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 16:49:08,435 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 16:49:08,436 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 16:49:08,436 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 16:49:08,439 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 16:49:08,951 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\license.tmp_save
+2023-07-22 16:49:09,212 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\license.tmp
+2023-07-22 16:49:09,330 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\gpio.c_save
+2023-07-22 16:49:09,500 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\gpio.c
+2023-07-22 16:49:09,512 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\gpio.h_save
+2023-07-22 16:49:09,665 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\gpio.h
+2023-07-22 16:49:11,072 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:49:11,081 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:49:11,246 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:49:11,251 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:49:11,425 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:49:11,435 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:49:11,579 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:49:11,585 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:49:11,707 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:49:11,712 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:49:11,859 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:49:11,865 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:49:11,975 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:49:11,981 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:49:12,097 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:49:12,102 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:49:12,214 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:49:12,228 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:49:12,482 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:49:12,503 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 16:49:12,522 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 16:49:12,660 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp
+2023-07-22 16:49:12,668 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 16:49:12,774 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 16:49:12,781 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 16:49:12,896 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 16:49:12,903 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 16:49:13,019 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 16:49:13,037 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 16:49:13,150 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp
+2023-07-22 16:49:13,159 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 16:49:13,269 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 16:49:13,276 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 16:49:13,389 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 16:49:13,396 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 16:49:13,510 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 16:49:13,536 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 16:49:13,652 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp
+2023-07-22 16:49:13,671 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 16:49:13,802 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\FreeRTOSConfig.h
+2023-07-22 16:49:13,811 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\freertos.c_save
+2023-07-22 16:49:13,967 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\freertos.c
+2023-07-22 16:49:13,984 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\adc.c_save
+2023-07-22 16:49:14,178 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\adc.c
+2023-07-22 16:49:14,185 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\adc.h_save
+2023-07-22 16:49:14,302 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\adc.h
+2023-07-22 16:49:14,385 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\fsmc.c_save
+2023-07-22 16:49:15,217 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\fsmc.c
+2023-07-22 16:49:15,270 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\fsmc.h_save
+2023-07-22 16:49:16,076 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\fsmc.h
+2023-07-22 16:49:16,194 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\rtc.c_save
+2023-07-22 16:49:17,438 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\rtc.c
+2023-07-22 16:49:17,486 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\rtc.h_save
+2023-07-22 16:49:18,252 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\rtc.h
+2023-07-22 16:49:18,363 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\spi.c_save
+2023-07-22 16:49:19,427 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\spi.c
+2023-07-22 16:49:19,507 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\spi.h_save
+2023-07-22 16:49:20,232 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\spi.h
+2023-07-22 16:49:20,327 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\tim.c_save
+2023-07-22 16:49:22,943 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\tim.c
+2023-07-22 16:49:23,021 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\tim.h_save
+2023-07-22 16:49:24,167 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\tim.h
+2023-07-22 16:49:24,311 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\usart.c_save
+2023-07-22 16:49:25,949 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\usart.c
+2023-07-22 16:49:26,014 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\usart.h_save
+2023-07-22 16:49:27,142 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\usart.h
+2023-07-22 16:49:27,374 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_it.c_save
+2023-07-22 16:49:30,833 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_it.c
+2023-07-22 16:49:30,915 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 16:49:32,138 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_it.h
+2023-07-22 16:49:32,330 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 16:49:34,169 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 16:49:34,212 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\system.tmp_save
+2023-07-22 16:49:35,527 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\system.tmp
+2023-07-22 16:49:35,586 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 16:49:36,933 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 16:49:37,048 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 16:49:38,394 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 16:49:38,833 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\main.h_save
+2023-07-22 16:49:40,130 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\main.h
+2023-07-22 16:49:40,217 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\main.c_save
+2023-07-22 16:49:41,633 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\main.c
+2023-07-22 16:49:54,476 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 3645mS.
+2023-07-22 16:49:54,542 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 16:50:00,874 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 16:50:01,024 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-22 16:50:01,522 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-22 16:50:16,826 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 22285mS.
+2023-07-22 16:50:16,828 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 2mS.
+2023-07-22 16:50:16,838 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 17:19:06,499 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 835348424 Bytes (1073741824)
+2023-07-22 17:19:07,988 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 857368520 Bytes (1073741824)
+2023-07-22 17:19:09,672 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 655588256 Bytes (1073741824)
+2023-07-22 17:19:10,347 [INFO] ProjectBuilder:2308 - IP not ready for code generation: Clock
+2023-07-22 17:19:11,571 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2023-07-22 17:19:11,571 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2023-07-22 17:19:11,572 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-22 17:19:11,573 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 17:19:11,573 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-22 17:19:11,573 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 17:19:11,574 [INFO] CodeGenerator:793 - code generatio: config db path: D:\ykl\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 17:19:11,999 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\license.tmp_save
+2023-07-22 17:19:12,149 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\license.tmp
+2023-07-22 17:19:12,510 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\gpio.c_save
+2023-07-22 17:19:12,670 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\gpio.c
+2023-07-22 17:19:12,678 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\gpio.h_save
+2023-07-22 17:19:12,806 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\gpio.h
+2023-07-22 17:19:13,858 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 17:19:13,866 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 17:19:13,962 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp
+2023-07-22 17:19:13,966 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 17:19:14,061 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 17:19:14,066 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 17:19:14,162 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 17:19:14,167 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 17:19:14,341 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 17:19:14,346 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 17:19:14,451 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp
+2023-07-22 17:19:14,456 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 17:19:14,552 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 17:19:14,558 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 17:19:14,666 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 17:19:14,672 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 17:19:14,769 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 17:19:14,775 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 17:19:14,873 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp
+2023-07-22 17:19:14,922 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-22 17:19:14,931 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp_save
+2023-07-22 17:19:15,025 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_inc.tmp
+2023-07-22 17:19:15,033 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-07-22 17:19:15,127 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelInit.tmp
+2023-07-22 17:19:15,135 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-22 17:19:15,245 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-22 17:19:15,253 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp_save
+2023-07-22 17:19:15,367 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_typedefs.tmp
+2023-07-22 17:19:15,375 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp_save
+2023-07-22 17:19:15,492 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_vars.tmp
+2023-07-22 17:19:15,499 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-22 17:19:15,606 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_pfp.tmp
+2023-07-22 17:19:15,614 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-22 17:19:15,721 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-22 17:19:15,729 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-22 17:19:15,830 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_default_thread.tmp
+2023-07-22 17:19:15,837 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp_save
+2023-07-22 17:19:15,937 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\rtos_threads.tmp
+2023-07-22 17:19:15,956 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\FreeRTOSConfig.h_save
+2023-07-22 17:19:16,074 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\FreeRTOSConfig.h
+2023-07-22 17:19:16,082 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\freertos.c_save
+2023-07-22 17:19:16,316 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\freertos.c
+2023-07-22 17:19:16,336 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\adc.c_save
+2023-07-22 17:19:16,568 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\adc.c
+2023-07-22 17:19:16,578 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\adc.h_save
+2023-07-22 17:19:16,711 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\adc.h
+2023-07-22 17:19:16,727 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\fsmc.c_save
+2023-07-22 17:19:16,866 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\fsmc.c
+2023-07-22 17:19:16,874 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\fsmc.h_save
+2023-07-22 17:19:17,008 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\fsmc.h
+2023-07-22 17:19:17,026 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\rtc.c_save
+2023-07-22 17:19:17,247 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\rtc.c
+2023-07-22 17:19:17,257 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\rtc.h_save
+2023-07-22 17:19:17,388 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\rtc.h
+2023-07-22 17:19:17,405 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\spi.c_save
+2023-07-22 17:19:17,580 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\spi.c
+2023-07-22 17:19:17,591 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\spi.h_save
+2023-07-22 17:19:17,722 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\spi.h
+2023-07-22 17:19:17,737 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\tim.c_save
+2023-07-22 17:19:17,908 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\tim.c
+2023-07-22 17:19:17,916 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\tim.h_save
+2023-07-22 17:19:18,034 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\tim.h
+2023-07-22 17:19:18,050 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\usart.c_save
+2023-07-22 17:19:18,358 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\usart.c
+2023-07-22 17:19:18,367 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\usart.h_save
+2023-07-22 17:19:18,501 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\usart.h
+2023-07-22 17:19:18,520 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_it.c_save
+2023-07-22 17:19:18,890 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_it.c
+2023-07-22 17:19:18,898 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_it.h_save
+2023-07-22 17:19:19,033 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_it.h
+2023-07-22 17:19:19,051 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_msp.c_save
+2023-07-22 17:19:19,200 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_msp.c
+2023-07-22 17:19:19,207 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\system.tmp_save
+2023-07-22 17:19:19,336 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\MXTmpFiles\system.tmp
+2023-07-22 17:19:19,344 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_timebase_tim.c_save
+2023-07-22 17:19:19,464 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\stm32f1xx_hal_timebase_tim.c
+2023-07-22 17:19:19,479 [INFO] CodeEngine:311 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-07-22 17:19:19,603 [INFO] CodeEngine:335 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\stm32f1xx_hal_conf.h
+2023-07-22 17:19:19,649 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\main.h_save
+2023-07-22 17:19:19,788 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Inc\main.h
+2023-07-22 17:19:19,799 [INFO] CodeEngine:255 - oldGeneratedFile, D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\main.c_save
+2023-07-22 17:19:19,965 [INFO] CodeEngine:279 - Generated code: D:\ykl\STM32CubeIDE_1.12.1\workspace\FREERTOS_SOFTTIMER\Core\Src\main.c
+2023-07-22 17:19:21,689 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 504mS.
+2023-07-22 17:19:21,700 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 17:19:22,794 [INFO] ConfigFileManager:1483 - The Die is : DIE414
+2023-07-22 17:19:26,812 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5113mS.
+2023-07-22 17:19:26,814 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 17:19:26,825 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

@@ -1,0 +1,10 @@
+09:22:17 **** Incremental Build of configuration Debug for project FREERTOS_SOFTTIMER ****
+make -j8 all 
+arm-none-eabi-size   FREERTOS_SOFTTIMER.elf 
+   text	   data	    bss	    dec	    hex	filename
+  72864	    500	   8572	  81936	  14010	FREERTOS_SOFTTIMER.elf
+Finished building: default.size.stdout
+ 
+
+09:22:18 Build Finished. 0 errors, 0 warnings. (took 1s.555ms)
+

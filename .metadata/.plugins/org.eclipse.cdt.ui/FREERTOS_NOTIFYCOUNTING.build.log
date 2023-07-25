@@ -1,0 +1,10 @@
+09:22:13 **** Incremental Build of configuration Debug for project FREERTOS_NOTIFYCOUNTING ****
+make -j8 all 
+arm-none-eabi-size   FREERTOS_NOTIFYCOUNTING.elf 
+   text	   data	    bss	    dec	    hex	filename
+  72440	    500	   8556	  81496	  13e58	FREERTOS_NOTIFYCOUNTING.elf
+Finished building: default.size.stdout
+ 
+
+09:22:14 Build Finished. 0 errors, 0 warnings. (took 1s.541ms)
+
