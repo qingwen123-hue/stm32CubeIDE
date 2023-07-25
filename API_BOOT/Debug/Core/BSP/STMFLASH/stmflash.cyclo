@@ -1,0 +1,5 @@
+stmflash.c:34:10:stmflash_read_halfword	1
+stmflash.c:46:6:stmflash_read	2
+stmflash.c:65:6:stmflash_write_nocheck	2
+stmflash.c:87:6:stmflash_write	10
+stmflash.c:175:6:test_write	1

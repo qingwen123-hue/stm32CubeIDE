@@ -1,0 +1,5 @@
+../Core/BSP/STMFLASH/stmflash.c:34:10:stmflash_read_halfword	16	static
+../Core/BSP/STMFLASH/stmflash.c:46:6:stmflash_read	40	static
+../Core/BSP/STMFLASH/stmflash.c:65:6:stmflash_write_nocheck	40	static
+../Core/BSP/STMFLASH/stmflash.c:87:6:stmflash_write	64	static
+../Core/BSP/STMFLASH/stmflash.c:175:6:test_write	16	static

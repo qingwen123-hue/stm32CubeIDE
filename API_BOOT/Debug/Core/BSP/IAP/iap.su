@@ -1,0 +1,2 @@
+../Core/BSP/IAP/iap.c:41:6:iap_write_appbin	40	static
+../Core/BSP/IAP/iap.c:76:6:iap_load_app	16	static
