@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;API_APP/usart.ioc&apos; to &apos;API_APP.ioc&apos;" description="Rename resource &apos;usart.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="usart.ioc" name="API_APP.ioc" stamp="1690270765573" updateReferences="true"/>
+</session>

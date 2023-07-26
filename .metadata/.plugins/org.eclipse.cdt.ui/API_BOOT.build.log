@@ -1,0 +1,57 @@
+14:27:21 **** Incremental Build of configuration Debug for project API_BOOT ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xE -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../Core/BSP/STMFLASH -I../Core/BSP/LCD -I../Core/BSP/IAP -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+In file included from ../Core/Src/main.c:21:
+../Core/Inc/usart.h:40:1: warning: 'at' attribute directive ignored [-Wattributes]
+   40 | extern u8 USART_RX_BUF[USART_REC_LEN] __attribute__ ((at(0X20001000)));
+      | ^~~~~~
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:76:10: warning: unused variable 'datatemp' [-Wunused-variable]
+   76 |  uint8_t datatemp[30];
+      |          ^~~~~~~~
+../Core/Src/main.c:75:10: warning: unused variable 'g_text_buf' [-Wunused-variable]
+   75 |  uint8_t g_text_buf[] = {"STM32 FLASH TEST"};
+      |          ^~~~~~~~~~
+../Core/Src/main.c:74:5: warning: unused variable 'lcd_id' [-Wunused-variable]
+   74 |  u8 lcd_id[12];      //存放LCD ID字符�?????
+      |     ^~~~~~
+In file included from ../Core/Src/main.c:29:
+../Core/Src/main.c: At top level:
+../Core/BSP/STMFLASH/stmflash.h:57:13: warning: 'stmflash_unlock' declared 'static' but never defined [-Wunused-function]
+   57 | static void stmflash_unlock(void);                  /* 解锁STM32 内部FLASH */
+      |             ^~~~~~~~~~~~~~~
+../Core/BSP/STMFLASH/stmflash.h:58:13: warning: 'stmflash_lock' declared 'static' but never defined [-Wunused-function]
+   58 | static void stmflash_lock(void);                    /* 锁定STM32 内部FLASH */
+      |             ^~~~~~~~~~~~~
+../Core/BSP/STMFLASH/stmflash.h:59:16: warning: 'stmflash_get_error_status' declared 'static' but never defined [-Wunused-function]
+   59 | static uint8_t stmflash_get_error_status(void);     /* 获取FLASH错误状�?? */
+      |                ^~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/BSP/STMFLASH/stmflash.h:60:16: warning: 'stmflash_wait_done' declared 'static' but never defined [-Wunused-function]
+   60 | static uint8_t stmflash_wait_done(uint32_t time);   /* 等待操作完成 */
+      |                ^~~~~~~~~~~~~~~~~~
+../Core/BSP/STMFLASH/stmflash.h:61:16: warning: 'stmflash_erase_sector' declared 'static' but never defined [-Wunused-function]
+   61 | static uint8_t stmflash_erase_sector(uint32_t saddr);                   /* 擦除扇区 */
+      |                ^~~~~~~~~~~~~~~~~~~~~
+../Core/BSP/STMFLASH/stmflash.h:62:16: warning: 'stmflash_write_halfword' declared 'static' but never defined [-Wunused-function]
+   62 | static uint8_t stmflash_write_halfword(uint32_t faddr, uint16_t data);  /* FLASH写半�? */
+      |                ^~~~~~~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "API_BOOT.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\ST\workspace\API_BOOT\STM32F103ZETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="API_BOOT.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: API_BOOT.elf
+ 
+arm-none-eabi-size   API_BOOT.elf 
+arm-none-eabi-objdump -h -S  API_BOOT.elf  > "API_BOOT.list"
+arm-none-eabi-objcopy  -O ihex  API_BOOT.elf  "API_BOOT.hex"
+   text	   data	    bss	    dec	    hex	filename
+  35708	    488	  62200	  98396	  1805c	API_BOOT.elf
+arm-none-eabi-objcopy  -O binary  API_BOOT.elf  "API_BOOT.bin"
+Finished building: default.size.stdout
+ 
+Finished building: API_BOOT.hex
+Finished building: API_BOOT.bin
+ 
+ 
+Finished building: API_BOOT.list
+ 
+
+14:27:24 Build Finished. 0 errors, 10 warnings. (took 2s.186ms)
+

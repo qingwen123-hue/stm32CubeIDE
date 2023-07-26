@@ -1,4 +1,4 @@
-09:22:08 **** Incremental Build of configuration Debug for project FREERTOS_EVENTSYNC ****
+15:58:08 **** Build of configuration Debug for project FREERTOS_EVENTSYNC ****
 make -j8 all 
 arm-none-eabi-size   FREERTOS_EVENTSYNC.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   FREERTOS_EVENTSYNC.elf
 Finished building: default.size.stdout
  
 
-09:22:10 Build Finished. 0 errors, 0 warnings. (took 1s.571ms)
+15:58:09 Build Finished. 0 errors, 0 warnings. (took 974ms)
 

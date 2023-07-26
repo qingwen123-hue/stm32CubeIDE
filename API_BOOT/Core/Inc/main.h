@@ -125,7 +125,7 @@ typedef __I uint8_t vuc8;
 
 /* Exported constants --------------------------------------------------------*/
 /* USER CODE BEGIN EC */
-
+void MSR_MSP(u32 addr);	//设置堆栈地址
 /* USER CODE END EC */
 
 /* Exported macro ------------------------------------------------------------*/

@@ -28,6 +28,7 @@
 #include "lcd.h"
 #include "stmflash.h"
 #include "string.h"
+#include "iap.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -98,21 +99,24 @@ int main(void)
   MX_USART1_UART_Init();
   MX_FSMC_Init();
   /* USER CODE BEGIN 2 */
-	LCD_Init();
-	POINT_COLOR=RED;     				//画笔颜色：红�????
-	sprintf((char*)lcd_id,"LCD ID:%04X",lcddev.id);//将LCD ID打印到lcd_id数组�????
+//	LCD_Init();
+//	POINT_COLOR=RED;     				//画笔颜色：红�????
+//	sprintf((char*)lcd_id,"LCD ID:%04X",lcddev.id);//将LCD ID打印到lcd_id数组�????
 
-	LCD_ShowString(30,40,210,12,12,"WarShip STM32 ^_^");
-	LCD_ShowString(30,60,200,12,12,"KEY0:Clear KEY1:RUN APP");
+//	LCD_ShowString(30,40,210,12,12,"WarShip STM32 ^_^");
+//	LCD_ShowString(30,60,200,12,12,"KEY0:Clear KEY1:RUN APP");
 
-	uint8_t * a;
-	HAL_UART_Receive_IT(&huart1, (uint8_t *)a, 1);
+//	uint8_t * a;
+//	HAL_UART_Receive_IT(&huart1, (uint8_t *)a, 1);
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 	while (1)
 	{
+//		printf("%d\r\n",USART_RX_CNT);
+//		HAL_Delay(1000);
 		if(USART_RX_CNT)
 		{
 			if(oldcount==USART_RX_CNT)//新周期内,没收数据,则本次数据接收完成.
@@ -120,23 +124,40 @@ int main(void)
 				applenth=USART_RX_CNT;
 				oldcount=0;
 				USART_RX_CNT=0;
-				LCD_ShowString(30,80,200,12,12,"APP Received Finished");
-				memset(datatemp,'\0',sizeof(datatemp));
-				sprintf((char*)datatemp,"AppSize:%dBytes",applenth);
-				LCD_ShowString(30,100,200,12,12,datatemp);
-				printf("用户程序接收完成!\r\n");
-				printf("代码长度:%dBytes\r\n",applenth);
+//				LCD_ShowString(30,80,200,12,12,"APP Received Finished");
+//				memset(datatemp,'\0',sizeof(datatemp));
+//				sprintf((char*)datatemp,"AppSize:%dBytes",applenth);
+//				LCD_ShowString(30,100,200,12,12,datatemp);
+				printf("The end!\r\n");
+				printf("length:%dBytes\r\n",applenth);
+				iap_write_appbin(FLASH_APP1_ADDR,USART_RX_BUF,applenth);//更新 FLASH 代码
+				printf("1111\r\n");
+				HAL_Delay(10);
+				iap_load_app(FLASH_APP1_ADDR);
+				//iap_load_app(0X20001000);//SRAM 地址
+				printf("2222\r\n");
+//				if(((*(vu32*)(FLASH_APP1_ADDR+4))&0xFF000000)==0x08000000)
+//				{
+//
+//				}
+
 			}else oldcount=USART_RX_CNT;
 		}
 		HAL_Delay(10);
-		if(KEY0 == KEY_DOWN)
+		x++;
+		if(x >= 200 && oldcount == 0)
 		{
-
+			printf("test\r\n");
+			x = 0;
 		}
-		else if(KEY1 == KEY_DOWN)
-		{
-
-		}
+//		if(KEY0 == KEY_DOWN)
+//		{
+//
+//		}
+//		else if(KEY1 == KEY_DOWN)
+//		{
+//
+//		}
 		//printf("test\n\r");
     /* USER CODE END WHILE */
 
@@ -182,7 +203,15 @@ void SystemClock_Config(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+//设置栈顶地址
+//addr:栈顶地址
+//void MSR_MSP(u32 addr)
+//{
+////    asm("MSR MSP, r0");			//set Main Stack value
+////    asm("BX r14");
+//	__set_MSP(addr);
+//
+//}
 /* USER CODE END 4 */
 
 /**

@@ -1,16 +1,10 @@
-09:22:25 **** Build of configuration Debug for project LCD ****
+15:58:17 **** Build of configuration Debug for project LCD ****
 make -j8 all 
-arm-none-eabi-gcc -o "LCD.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\ST\workspace\LCD\STM32F103ZETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LCD.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: LCD.elf
- 
 arm-none-eabi-size   LCD.elf 
-arm-none-eabi-objdump -h -S  LCD.elf  > "LCD.list"
    text	   data	    bss	    dec	    hex	filename
   52316	    496	   1752	  54564	   d524	LCD.elf
 Finished building: default.size.stdout
  
-Finished building: LCD.list
- 
 
-09:22:29 Build Finished. 0 errors, 0 warnings. (took 3s.357ms)
+15:58:17 Build Finished. 0 errors, 0 warnings. (took 574ms)
 

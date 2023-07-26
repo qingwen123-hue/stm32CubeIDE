@@ -55,7 +55,7 @@ void MX_USART1_UART_Init(void)
     Error_Handler();
   }
   /* USER CODE BEGIN USART1_Init 2 */
-  //HAL_UART_Receive_IT(&huart1, (uint8_t *)&res, 1);
+  HAL_UART_Receive_IT(&huart1, (u8 *)&res, 1);
   /* USER CODE END USART1_Init 2 */
 
 }
@@ -131,24 +131,16 @@ int __io_putchar(int ch)
 
 void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 {
-	HAL_UART_Transmit(&huart, &res, 1, 100);
-	HAL_UART_Receive_IT(&huart1, (uint8_t *)&res, 1);
+
 	if(huart == &huart1)
 	{
-//		u8 res;
-//		res = USART1->DR;
-		//HAL_UART_Transmit(&huart, &res, 1, 100);
 
-//		if(__HAL_UART_GET_FLAG(huart,UART_FLAG_RXNE) != RESET)
-//		{
-//			//res = USART1->DR;
-//			if(USART_RX_CNT < USART_REC_LEN)
-//			{
-//				USART_RX_BUF[USART_RX_CNT] = res;
-//				USART_RX_CNT++;
-//				printf("%d\r\n",USART_RX_CNT);
-//			}
-//		}
+		if(USART_RX_CNT < USART_REC_LEN)
+		{
+			USART_RX_BUF[USART_RX_CNT] = res;
+			USART_RX_CNT++;
+			//printf("%d\r\n",USART_RX_CNT);
+		}
 		HAL_UART_Receive_IT(&huart1, (uint8_t *)&res, 1);
 	}
 }

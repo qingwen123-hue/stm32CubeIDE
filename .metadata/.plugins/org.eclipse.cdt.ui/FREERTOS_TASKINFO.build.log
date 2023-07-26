@@ -1,4 +1,4 @@
-09:22:21 **** Incremental Build of configuration Debug for project FREERTOS_TASKINFO ****
+15:58:15 **** Build of configuration Debug for project FREERTOS_TASKINFO ****
 make -j8 all 
 arm-none-eabi-size   FREERTOS_TASKINFO.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   FREERTOS_TASKINFO.elf
 Finished building: default.size.stdout
  
 
-09:22:23 Build Finished. 0 errors, 0 warnings. (took 1s.643ms)
+15:58:16 Build Finished. 0 errors, 0 warnings. (took 1s.18ms)
 

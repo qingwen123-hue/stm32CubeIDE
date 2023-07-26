@@ -81,7 +81,8 @@ void iap_load_app(uint32_t appxaddr)
         jump2app = (iapfun) * (volatile uint32_t *)(appxaddr + 4);
         
         /* 初始化APP堆栈指针(用户代码区的第一个字用于存放栈顶地址) */
-        sys_msr_msp(*(volatile uint32_t *)appxaddr);
+        //MSR_MSP(*(volatile uint32_t *)appxaddr);
+        __set_MSP(*(volatile uint32_t *)appxaddr);
         
         /* 跳转到APP */
         jump2app();

@@ -4,3 +4,6 @@
 1690179194300	Delete resource 'SPI'
 1690248282806	Delete resource 'KEY'
 1690248288769	Delete resource 'SPI'
+1690270723916	Delete resource 'API_BOOT/Debug/API_BOOT.elf'
+1690270746943	Delete resource 'API_APP/Debug/demo1.elf'
+1690270750605	Delete resource 'API_APP/Debug/usart.elf'
